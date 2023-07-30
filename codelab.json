@@ -1,0 +1,18 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-07-30T17:41:36Z",
+  "id": "./Ressources/SIG-codelab-HTML",
+  "duration": 45,
+  "title": "TP HTML",
+  "summary": "",
+  "source": "1o-AzNAoqWmz-TPP15NXMbExKVdv8ZOKpSrUi_yL1eJw",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "feedback": "Un lien vers lequel les utilisateurs peuvent signaler un bug",
+  "url": "./Ressources/SIG-codelab-HTML"
+}
